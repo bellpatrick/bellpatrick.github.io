@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Web Scraping](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/webscraping/Data%20Scientist%20Job%20Posts%20-%20Web%20Scraping.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

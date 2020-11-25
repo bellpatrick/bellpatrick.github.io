@@ -3,7 +3,7 @@
 ---
 
 ### Beginner Projects
-#### The first projects I took on to develop my data science skills. 
+The first projects I took on to develop my data science skills. 
 
 [Web Scraping](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/webscraping/Data%20Scientist%20Job%20Posts%20-%20Web%20Scraping.ipynb)
 <img src="images/indeed.jpg?raw=true"/>

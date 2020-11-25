@@ -10,7 +10,7 @@ The first projects I took on to develop my data science skills.
 
 <img src="images/headhunter.png" width="150"/>
 
-Key Competencies: web scraping, EDA, NLP, Natural language Toolkit (NLTK)
+*Key Competencies: web scraping, EDA, NLP, Natural language Toolkit (NLTK)*
 
 ---
 [Predicting Maize Seed Sales in Kenya](/pdf/sample_presentation.pdf)

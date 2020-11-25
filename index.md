@@ -17,7 +17,7 @@ The first projects I took on to develop my data science skills.
 
 <img src="images/corn.png" width="150"/>
 
-*Key Competencies: data processing, EDA, classification machine learning algorithms, sklearn, model comparison
+*Key Competencies: data processing, EDA, classification machine learning algorithms, sklearn, model comparison*
 
 ---
 

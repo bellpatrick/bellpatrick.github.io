@@ -1,7 +1,15 @@
 # Portfolio
 
 ---
+## Professional Projects -- COMING SOON
 
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
 ## Beginner Projects
 The first projects I took on to develop my data science skills. 
 
@@ -18,16 +26,6 @@ The first projects I took on to develop my data science skills.
 <img src="images/corn.png" width="150"/>
 
 *Key Competencies: data processing, EDA, classification machine learning algorithms, sklearn, model comparison*
-
----
-
-## Professional Projects
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

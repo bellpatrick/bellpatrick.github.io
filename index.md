@@ -21,7 +21,7 @@ The first projects I took on to develop my data science skills.
 
 ---
 
-### Category Name 2
+## Professional Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

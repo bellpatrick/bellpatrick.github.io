@@ -12,6 +12,7 @@ The first projects I took on to develop my data science skills.
 
 ---
 [Predicting Maize Seed Sales in Kenya](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

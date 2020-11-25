@@ -6,7 +6,7 @@
 The first projects I took on to develop my data science skills. 
 
 [Web Scraping](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/webscraping/Data%20Scientist%20Job%20Posts%20-%20Web%20Scraping.ipynb)
-<img src="images/indeed.jpg?raw=true"/>
+<img src="images/indeed.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

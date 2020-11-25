@@ -7,7 +7,7 @@ The first projects I took on to develop my data science skills.
 
 ---
 [Web Scraping](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/webscraping/Data%20Scientist%20Job%20Posts%20-%20Web%20Scraping.ipynb)
-<img src="images/headhunter.png?raw=true =100x200"/>
+<img src="images/headhunter.png?raw=true =50x100"/>
 
 Key Competencies: web scraping, EDA, NLP, Natural language Toolkit (NLTK)
 

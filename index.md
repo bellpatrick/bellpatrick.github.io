@@ -22,10 +22,5 @@ The first projects I took on to develop my data science skills.
 *Key Competencies: data processing, EDA, classification machine learning algorithms, sklearn, model comparison*
 
 ---
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

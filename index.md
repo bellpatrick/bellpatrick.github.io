@@ -15,7 +15,7 @@ The first projects I took on to develop my data science skills.
 *Key Competencies: web scraping, EDA, NLP, Natural language Toolkit (NLTK)*
 
 ---
-#### Prdicting Maize Seed Sales in Kenya - [here](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/maize_sales/maize_acreage.ipynb)
+#### Prdicting Maize Seed Sales in Kenya - [here](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/maize_sales/maize_acreage.html)
 
 <img src="images/corn.png" width="150"/>
 

@@ -22,7 +22,7 @@ The first projects I took on to develop my data science skills.
 *Key Competencies: data processing, EDA, classification machine learning algorithms, sklearn, model comparison*
 
 ---
-#### Rural Retail Customer Segmentation in Kenya - [here (https://github.com/bellpatrick/bellpatrick.github.io/blob/main/duka_segmentation/Duka%20Customer%20Segmentation.ipynb)
+#### Rural Retail Customer Segmentation in Kenya - [here](https://github.com/bellpatrick/bellpatrick.github.io/blob/main/duka_segmentation/Duka%20Customer%20Segmentation.ipynb)
 
 <img src="images/duka.jpeg" width="150"/>
 

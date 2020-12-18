@@ -1,8 +1,4 @@
 # Portfolio
-
----
-## Professional Projects -- COMING SOON
-
 ---
 ## Beginner Projects
 The first projects I took on to develop my data science skills. 
